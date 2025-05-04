@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765533386902",
+    "project_id": "joyfinder-36eea",
+    "storage_bucket": "joyfinder-36eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765533386902:android:bf560f53691b9bea89eab7",
+        "android_client_info": {
+          "package_name": "com.example.joyfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFboHDk3mePS5_MR046PEymsh1mF9pm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
