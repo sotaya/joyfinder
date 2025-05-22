@@ -1,6 +1,7 @@
 # joyfinder
 
 A new Flutter project.
+Event Management Application.
 
 ## Getting Started
 
